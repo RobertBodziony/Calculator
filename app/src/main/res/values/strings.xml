@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="historyStartText">HISTORY</string>
+    <string name="calculationsStartText">CALCULATIONS</string>
+    <string name="button1text">1</string>
+    <string name="button2text">2</string>
+    <string name="button3text">3</string>
+    <string name="button4text">4</string>
+    <string name="button5text">5</string>
+    <string name="button6text">6</string>
+    <string name="button7text">7</string>
+    <string name="button8text">8</string>
+    <string name="button9text">9</string>
+    <string name="button0text">0</string>
+    <string name="buttonPLUStext">+</string>
+    <string name="buttonMINUStext">-</string>
+    <string name="buttonEqualstext">=</string>
+    <string name="buttonCLEARtext">C</string>
+    <string name="credentialText">The app designed by \n Robert Bodziony 200204</string>
+
+
+
+
+</resources>
